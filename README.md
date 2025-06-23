@@ -1,10 +1,6 @@
-# 🧑‍💻 Rishabh Singh – Frontend Portfolio
+# 🧑‍💻 Rishabh Singh – Demo Frontend Portfolio
 
 Welcome to my **personal Demo portfolio website**, crafted using **HTML**, **CSS**, and **JavaScript**. This project highlights my skills and showcases the frontend projects I've built as part of my journey as a web developer.
-
-## 🌐 Live Demo
-
-👉 [Click here to view the live site](https://rishabhsingh.github.io/portfolio/)  
 
 
 ---
